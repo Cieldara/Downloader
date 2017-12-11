@@ -8,7 +8,6 @@ import java.io.BufferedInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.concurrent.locks.ReentrantLock;
-import javafx.beans.property.ReadOnlyDoubleWrapper;
 import javafx.concurrent.Task;
 
 public class Downloader extends Task {
